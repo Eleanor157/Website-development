@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Form</title>
+</head>
+<body>
+<form>
+<label>Enter your name</label><br>
+<input type="text" id="name"><br>
+<label>Enter your age</label><br>
+<input type="number" id="age"><br>
+<label>Enter your gender</label><br>
+<input type="radio" id="male" name="gender">male<br>
+<input type="radio" id="Female" name="gender">female<br>
+<label>Select your Hobbies</label><br>
+<input type="checkbox" id="Arts" name="hobbies">Arts<br>
+<input type="checkbox" id="Music" name="hobbies">Music<br>
+<input type="checkbox" id="Karate" name="hobbies">Karate<br>
+<label>Enter your Nationality</label>
+<select id= "Nationality">
+<option value="Kenya">Kenya</option>
+<option value="India">India</option>
+<option value="America">America</option><br>
+
+
+</select><br>
+<label>Date of Birth</label><br>
+<input type="date" id="birthday"><br>
+<fieldset>
+<legend>Info</legend>
+
+</fieldset>
+</form>
+</body>
+
+
+
+</html>
