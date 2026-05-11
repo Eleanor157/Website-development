@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<input type="number" id="n1">
+<input type="number" id="n2">
+<p id="answer"></p>
+<button onclick="subtraction()">Subtract</button> 
+<script>
+//create function
+function subtraction()
+{
+var num1=Number(document.getElementById("n1").value);
+var num2=Number(document.getElementById("n2").value);
+document.getElementById("answer").innerHTML=num1-num2;
+}
+</script>
+</body>
+</html>
