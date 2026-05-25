@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Eleanor Nellie's Work in JS</title>
+<style>
+body:hover{
+border: 4px aqua dotted;
+color: lavender;
+background: linear-gradient(blue,aqua,lightblue,purple,pink);
+}
+body{
+border: 4px mediumseagreen solid;
+color: purple;
+background: linear-gradient(darkred,crimson,red,orange,yellow);
+}
+</style>
+</head>
+<body>
+
+<h1>My First switch</h1>
+<p>Check below</p>
+<h1 id="output"></h1>
+<script>
+for(var count=0; count<=14; count++){
+document.getElementById("output").innerHTML+=count
+}
+var date=new Date ();
+document.write(date.getHours());
+document.write(date.getMinutes());
+document.write(date.getSeconds());
+switch(date.getDay()){
+case 0:
+document.write("Sunday");
+break;
+case 1:
+document.write("Monday");
+break;
+case 2:
+document.write("Tuesday");
+break;
+case 3:
+document.write("Wednesday");
+break;
+case 4:
+document.write("Thursday");
+break;
+case 5:
+document.write("Friday");
+break;
+case 6:
+document.write("Saturday");
+break;
+}
+</script>
+
+</body>
+</html>
+
