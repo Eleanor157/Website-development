@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>HAPPY FATHERS DAY</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+<div class="container bg-dark">
+  <div class="jumbotron">
+    <h1 class="bg-success">To all fathers in the world:</h1> 
+    <h2 class="bg-danger">Happy fathers Day✌!</h2>
+   <p class="bg-info">This is for love to all the fathers🌈.</p>
+  </div>
+  <p class="bg-warning">Dear fathers,<br> Happy fathers day. This is a day to celebrate all fathers in the world with love for all. We children, women, old women, youths and other generations love and always care for you.</p>      
+  <p class="bg-success">We are here to celebrate all the dads in the world with gratitude. Thank you fathers. We coulden't be here without you!</p>
+  <h3 class="bg-primary">VALUES OF A FATHER</h3>
+  <button class="btn btn-success">LOVE</button>
+  <button class="btn btn-danger">JOY</button>
+  <button class="btn btn-warning">PEACE</button>
+  <button class="btn btn-info">PATIENCE</button>
+  <button class="btn btn-primary">GOODNESS</button>
+  <button class="btn btn-secondary">KINDNESS</button>
+  <button class="btn btn-light">FAITHFULNESS</button>
+  <button class="btn btn-dark">GENTLENESS</button>
+  <button class="btn btn-danger">SELF-CONTROL</button>
+  <button class="btn btn-primary">GENEROSITY</button>
+  <button class="btn btn-secondary">SUPPORT</button>
+  <button class="btn btn-info">FAIR DISCIPLINE</button>
+  <button class="btn btn-danger">HUMILITY</button>
+  <button class="btn btn-warning">EMPATHY</button>
+  <button class="btn btn-success">INTEGRITY</button>
+  <button class="btn btn-info">COMPASSION</button>
+  <button class="btn btn-secondary">PROVIDER</button>
+  <button class="btn btn-primary">SUPPORT</button>
+  <button class="btn btn-light">OPEN COMMUNICATION</button>
+  <button class="btn btn-dark">RESPECT</button>
+  <button class="btn btn-info">PRESENCE</button>
+  </div>
+  <h3 class="bg-secondary">Images of a fathers love</h3>
+  <div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://cdn-az.allevents.in/events4/banners/381a11b2733952e29f6a3971bad8ca8d201649f392b578d3e0d53cb717e3f3fd-rimg-w1200-h628-dc52c84f-gmir?v=1779478162" class="d-block w-100" alt="1">
+    </div>
+    <div class="carousel-item active">
+      <img src="https://lh7-us.googleusercontent.com/Hsr7C6ByXIfK3W63OaKIB0q6rGGupoFrI4jcfGHi0-IO7IpSuC58yY-O0WooZAkaloxV-KQhAferxpODBvD4pnrsoon1EG6g3jom_ZawWvoSxU0dGooHXekxk62pL2sHOKBL5sED_ZsRVKvPXebngAU" class="d-block w-100" alt="2">
+    </div>
+    <div class="carousel-item active">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmQqlIMCpUGnW44gyTAr0u-EAYs89hyZC2Q&s" class="d-block w-100" alt="3">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+ <div class="container">
+ <h3 class="bg-light">What I wish for all dads</h3>
+   <h4 class="bg-warning">To:</h4>
+   <span class="badge badge-danger">never have stress.</span>
+   <span class="badge badge-success">have empathy and compassion.</span>
+   <span class="badge badge-danger">be strong even in times of challenges.</span>
+   <span class="badge badge-success">never give up.</span>
+ </div>
+ <h3 class="bg-info">Amount of dads in the world</h3>
+ <div class="progress">
+ <div class="progress bar" style="width:99%">1.5M%</div>
+ </div>
+ </div>
+</body>
+</html>
