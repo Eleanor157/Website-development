@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<img id="output">
+<script>
+var p1={
+name:"hair pin",
+price:1000,
+color:"lightgreen",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHeKYCnSEWHvRrdXMo5SRyPlGca0IerFqunw&s",
+}
+document.write(p1.price+"ksh")
+document.write(p1.name)
+document.getElementById("output").src=p1.image
+var p2={
+name:"hair clip",
+price:200,
+color:"lightblue",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvWQFefds_m8W2ayt8G4AwyZcoQJ__JTDkQ&s",
+}
+document.write(p2.price+"ksh")
+document.write(p2.name)
+document.getElementById("output").src=p2.image
+</script>
+</body>
+</html>
+
